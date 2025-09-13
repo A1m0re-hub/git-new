@@ -1,6 +1,6 @@
 import math
 A = 1
-B = 2
+B = 3
 if A > B:
     print("TI dayn")
 else: 
